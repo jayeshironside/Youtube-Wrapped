@@ -10,8 +10,6 @@ The project uses Python and several data analysis libraries, including Pandas, M
 * Most watched channels and videos
 * Time of day and day of week preferences for watching
 * Changes in viewing habits over the course of the year
-* Correlations between video length and watch time
-* Correlations between video category and watch time
 
 The results of the analysis are presented in various forms, including bar charts, line graphs, and pie charts, to make the insights easily digestible and visually engaging.
 
